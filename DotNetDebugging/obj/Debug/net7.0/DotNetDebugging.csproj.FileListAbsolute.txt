@@ -1,0 +1,15 @@
+C:\Users\Ingri\Desktop\Code pags\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.exe
+C:\Users\Ingri\Desktop\Code pags\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.deps.json
+C:\Users\Ingri\Desktop\Code pags\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.runtimeconfig.json
+C:\Users\Ingri\Desktop\Code pags\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.dll
+C:\Users\Ingri\Desktop\Code pags\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.pdb
+C:\Users\Ingri\Desktop\Code pags\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.csproj.AssemblyReference.cache
+C:\Users\Ingri\Desktop\Code pags\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ingri\Desktop\Code pags\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\Users\Ingri\Desktop\Code pags\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.AssemblyInfo.cs
+C:\Users\Ingri\Desktop\Code pags\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\Users\Ingri\Desktop\Code pags\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.dll
+C:\Users\Ingri\Desktop\Code pags\DotNetDebugging\obj\Debug\net7.0\refint\DotNetDebugging.dll
+C:\Users\Ingri\Desktop\Code pags\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.pdb
+C:\Users\Ingri\Desktop\Code pags\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.genruntimeconfig.cache
+C:\Users\Ingri\Desktop\Code pags\DotNetDebugging\obj\Debug\net7.0\ref\DotNetDebugging.dll
